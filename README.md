@@ -1,1 +1,1 @@
-# pharmamap1
+# PharmaMap
